@@ -257,5 +257,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 }
 ```
 
+<p align="center">
+  <img src="https://tgf-programing.com/uploads/temp//1568052246-nZCLE.jpg">
+</p>
+
+
+
 สำหรับมือใหม่ให้ระวังด้วยไม่ต้องเอาไปทับบรรทัดแรกที่เป็น package นะครับ
 จากนั้นลองกดรันดูก็จะได้แอพที่มีแถบเมนู navigation แล้วครับ
