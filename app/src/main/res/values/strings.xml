@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="navigation_drawer_open">เปิด</string>
+    <string name="navigation_drawer_close">ปิด</string>
+</resources>
